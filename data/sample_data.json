@@ -1,0 +1,984 @@
+{
+    "users": [
+        {
+            "userId": "U001",
+            "email": "user1@example.com",
+            "firstName": "First1",
+            "lastName": "Last1",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958222",
+            "profile": {
+                "bio": "Bio of user 1",
+                "avatar": "https://example.com/avatar1.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U002",
+            "email": "user2@example.com",
+            "firstName": "First2",
+            "lastName": "Last2",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958233",
+            "profile": {
+                "bio": "Bio of user 2",
+                "avatar": "https://example.com/avatar2.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U003",
+            "email": "user3@example.com",
+            "firstName": "First3",
+            "lastName": "Last3",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958237",
+            "profile": {
+                "bio": "Bio of user 3",
+                "avatar": "https://example.com/avatar3.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U004",
+            "email": "user4@example.com",
+            "firstName": "First4",
+            "lastName": "Last4",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958240",
+            "profile": {
+                "bio": "Bio of user 4",
+                "avatar": "https://example.com/avatar4.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U005",
+            "email": "user5@example.com",
+            "firstName": "First5",
+            "lastName": "Last5",
+            "role": "instructor",
+            "dateJoined": "2025-06-11T10:16:39.958244",
+            "profile": {
+                "bio": "Bio of user 5",
+                "avatar": "https://example.com/avatar5.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Teaching"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U006",
+            "email": "user6@example.com",
+            "firstName": "First6",
+            "lastName": "Last6",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958248",
+            "profile": {
+                "bio": "Bio of user 6",
+                "avatar": "https://example.com/avatar6.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U007",
+            "email": "user7@example.com",
+            "firstName": "First7",
+            "lastName": "Last7",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958253",
+            "profile": {
+                "bio": "Bio of user 7",
+                "avatar": "https://example.com/avatar7.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U008",
+            "email": "user8@example.com",
+            "firstName": "First8",
+            "lastName": "Last8",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958258",
+            "profile": {
+                "bio": "Bio of user 8",
+                "avatar": "https://example.com/avatar8.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U009",
+            "email": "user9@example.com",
+            "firstName": "First9",
+            "lastName": "Last9",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958263",
+            "profile": {
+                "bio": "Bio of user 9",
+                "avatar": "https://example.com/avatar9.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U010",
+            "email": "user10@example.com",
+            "firstName": "First10",
+            "lastName": "Last10",
+            "role": "instructor",
+            "dateJoined": "2025-06-11T10:16:39.958267",
+            "profile": {
+                "bio": "Bio of user 10",
+                "avatar": "https://example.com/avatar10.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Teaching"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U011",
+            "email": "user11@example.com",
+            "firstName": "First11",
+            "lastName": "Last11",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958278",
+            "profile": {
+                "bio": "Bio of user 11",
+                "avatar": "https://example.com/avatar11.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U012",
+            "email": "user12@example.com",
+            "firstName": "First12",
+            "lastName": "Last12",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958282",
+            "profile": {
+                "bio": "Bio of user 12",
+                "avatar": "https://example.com/avatar12.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U013",
+            "email": "user13@example.com",
+            "firstName": "First13",
+            "lastName": "Last13",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958285",
+            "profile": {
+                "bio": "Bio of user 13",
+                "avatar": "https://example.com/avatar13.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U014",
+            "email": "user14@example.com",
+            "firstName": "First14",
+            "lastName": "Last14",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958288",
+            "profile": {
+                "bio": "Bio of user 14",
+                "avatar": "https://example.com/avatar14.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U015",
+            "email": "user15@example.com",
+            "firstName": "First15",
+            "lastName": "Last15",
+            "role": "instructor",
+            "dateJoined": "2025-06-11T10:16:39.958291",
+            "profile": {
+                "bio": "Bio of user 15",
+                "avatar": "https://example.com/avatar15.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Teaching"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U016",
+            "email": "user16@example.com",
+            "firstName": "First16",
+            "lastName": "Last16",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958295",
+            "profile": {
+                "bio": "Bio of user 16",
+                "avatar": "https://example.com/avatar16.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U017",
+            "email": "user17@example.com",
+            "firstName": "First17",
+            "lastName": "Last17",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958299",
+            "profile": {
+                "bio": "Bio of user 17",
+                "avatar": "https://example.com/avatar17.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U018",
+            "email": "user18@example.com",
+            "firstName": "First18",
+            "lastName": "Last18",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958302",
+            "profile": {
+                "bio": "Bio of user 18",
+                "avatar": "https://example.com/avatar18.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U019",
+            "email": "user19@example.com",
+            "firstName": "First19",
+            "lastName": "Last19",
+            "role": "student",
+            "dateJoined": "2025-06-11T10:16:39.958305",
+            "profile": {
+                "bio": "Bio of user 19",
+                "avatar": "https://example.com/avatar19.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Python"
+                ]
+            },
+            "isActive": true
+        },
+        {
+            "userId": "U020",
+            "email": "user20@example.com",
+            "firstName": "First20",
+            "lastName": "Last20",
+            "role": "instructor",
+            "dateJoined": "2025-06-11T10:16:39.958309",
+            "profile": {
+                "bio": "Bio of user 20",
+                "avatar": "https://example.com/avatar20.jpg",
+                "skills": [
+                    "MongoDB",
+                    "Teaching"
+                ]
+            },
+            "isActive": true
+        }
+    ],
+    "courses": [
+        {
+            "courseId": "C001",
+            "title": "Course 1",
+            "description": "Description of Course 1",
+            "instructorId": "U010",
+            "category": "Business",
+            "level": "advanced",
+            "duration": 11,
+            "price": 59,
+            "tags": [
+                "tag1",
+                "mongodb",
+                "nosql"
+            ],
+            "createdAt": "2025-06-11T10:16:39.958488",
+            "updatedAt": "2025-06-11T10:16:39.958491",
+            "isPublished": true
+        },
+        {
+            "courseId": "C002",
+            "title": "Course 2",
+            "description": "Description of Course 2",
+            "instructorId": "U015",
+            "category": "Business",
+            "level": "beginner",
+            "duration": 19,
+            "price": 83,
+            "tags": [
+                "tag2",
+                "mongodb",
+                "nosql"
+            ],
+            "createdAt": "2025-06-11T10:16:39.958507",
+            "updatedAt": "2025-06-11T10:16:39.958509",
+            "isPublished": true
+        },
+        {
+            "courseId": "C003",
+            "title": "Course 3",
+            "description": "Description of Course 3",
+            "instructorId": "U020",
+            "category": "Tech",
+            "level": "beginner",
+            "duration": 11,
+            "price": 42,
+            "tags": [
+                "tag3",
+                "mongodb",
+                "nosql"
+            ],
+            "createdAt": "2025-06-11T10:16:39.958516",
+            "updatedAt": "2025-06-11T10:16:39.958517",
+            "isPublished": true
+        },
+        {
+            "courseId": "C004",
+            "title": "Course 4",
+            "description": "Description of Course 4",
+            "instructorId": "U005",
+            "category": "Design",
+            "level": "intermediate",
+            "duration": 17,
+            "price": 74,
+            "tags": [
+                "tag4",
+                "mongodb",
+                "nosql"
+            ],
+            "createdAt": "2025-06-11T10:16:39.958532",
+            "updatedAt": "2025-06-11T10:16:39.958534",
+            "isPublished": true
+        },
+        {
+            "courseId": "C005",
+            "title": "Course 5",
+            "description": "Description of Course 5",
+            "instructorId": "U010",
+            "category": "Design",
+            "level": "intermediate",
+            "duration": 18,
+            "price": 74,
+            "tags": [
+                "tag5",
+                "mongodb",
+                "nosql"
+            ],
+            "createdAt": "2025-06-11T10:16:39.958545",
+            "updatedAt": "2025-06-11T10:16:39.958548",
+            "isPublished": true
+        },
+        {
+            "courseId": "C006",
+            "title": "Course 6",
+            "description": "Description of Course 6",
+            "instructorId": "U015",
+            "category": "Business",
+            "level": "advanced",
+            "duration": 14,
+            "price": 36,
+            "tags": [
+                "tag6",
+                "mongodb",
+                "nosql"
+            ],
+            "createdAt": "2025-06-11T10:16:39.958557",
+            "updatedAt": "2025-06-11T10:16:39.958559",
+            "isPublished": true
+        },
+        {
+            "courseId": "C007",
+            "title": "Course 7",
+            "description": "Description of Course 7",
+            "instructorId": "U020",
+            "category": "Business",
+            "level": "advanced",
+            "duration": 16,
+            "price": 43,
+            "tags": [
+                "tag7",
+                "mongodb",
+                "nosql"
+            ],
+            "createdAt": "2025-06-11T10:16:39.958568",
+            "updatedAt": "2025-06-11T10:16:39.958570",
+            "isPublished": true
+        },
+        {
+            "courseId": "C008",
+            "title": "Course 8",
+            "description": "Description of Course 8",
+            "instructorId": "U005",
+            "category": "Business",
+            "level": "beginner",
+            "duration": 13,
+            "price": 81,
+            "tags": [
+                "tag8",
+                "mongodb",
+                "nosql"
+            ],
+            "createdAt": "2025-06-11T10:16:39.958582",
+            "updatedAt": "2025-06-11T10:16:39.958585",
+            "isPublished": true
+        }
+    ],
+    "enrollments": [
+        {
+            "enrollmentId": "E001",
+            "studentId": "U002",
+            "courseId": "C002",
+            "dateEnrolled": "2025-06-11T10:16:39.958713",
+            "progress": "15%",
+            "status": "in-progress"
+        },
+        {
+            "enrollmentId": "E002",
+            "studentId": "U003",
+            "courseId": "C003",
+            "dateEnrolled": "2025-06-11T10:16:39.958720",
+            "progress": "98%",
+            "status": "completed"
+        },
+        {
+            "enrollmentId": "E003",
+            "studentId": "U004",
+            "courseId": "C004",
+            "dateEnrolled": "2025-06-11T10:16:39.958724",
+            "progress": "89%",
+            "status": "completed"
+        },
+        {
+            "enrollmentId": "E004",
+            "studentId": "U005",
+            "courseId": "C005",
+            "dateEnrolled": "2025-06-11T10:16:39.958728",
+            "progress": "47%",
+            "status": "completed"
+        },
+        {
+            "enrollmentId": "E005",
+            "studentId": "U006",
+            "courseId": "C006",
+            "dateEnrolled": "2025-06-11T10:16:39.958733",
+            "progress": "40%",
+            "status": "completed"
+        },
+        {
+            "enrollmentId": "E006",
+            "studentId": "U007",
+            "courseId": "C007",
+            "dateEnrolled": "2025-06-11T10:16:39.958737",
+            "progress": "82%",
+            "status": "completed"
+        },
+        {
+            "enrollmentId": "E007",
+            "studentId": "U008",
+            "courseId": "C008",
+            "dateEnrolled": "2025-06-11T10:16:39.958741",
+            "progress": "28%",
+            "status": "in-progress"
+        },
+        {
+            "enrollmentId": "E008",
+            "studentId": "U009",
+            "courseId": "C001",
+            "dateEnrolled": "2025-06-11T10:16:39.958747",
+            "progress": "84%",
+            "status": "completed"
+        },
+        {
+            "enrollmentId": "E009",
+            "studentId": "U010",
+            "courseId": "C002",
+            "dateEnrolled": "2025-06-11T10:16:39.958754",
+            "progress": "60%",
+            "status": "completed"
+        },
+        {
+            "enrollmentId": "E010",
+            "studentId": "U011",
+            "courseId": "C003",
+            "dateEnrolled": "2025-06-11T10:16:39.958767",
+            "progress": "23%",
+            "status": "in-progress"
+        },
+        {
+            "enrollmentId": "E011",
+            "studentId": "U012",
+            "courseId": "C004",
+            "dateEnrolled": "2025-06-11T10:16:39.958772",
+            "progress": "99%",
+            "status": "in-progress"
+        },
+        {
+            "enrollmentId": "E012",
+            "studentId": "U013",
+            "courseId": "C005",
+            "dateEnrolled": "2025-06-11T10:16:39.958776",
+            "progress": "57%",
+            "status": "in-progress"
+        },
+        {
+            "enrollmentId": "E013",
+            "studentId": "U014",
+            "courseId": "C006",
+            "dateEnrolled": "2025-06-11T10:16:39.958780",
+            "progress": "73%",
+            "status": "completed"
+        },
+        {
+            "enrollmentId": "E014",
+            "studentId": "U015",
+            "courseId": "C007",
+            "dateEnrolled": "2025-06-11T10:16:39.958784",
+            "progress": "63%",
+            "status": "in-progress"
+        },
+        {
+            "enrollmentId": "E015",
+            "studentId": "U016",
+            "courseId": "C008",
+            "dateEnrolled": "2025-06-11T10:16:39.958788",
+            "progress": "37%",
+            "status": "completed"
+        }
+    ],
+    "lessons": [
+        {
+            "lessonId": "L001",
+            "courseId": "C002",
+            "title": "Lesson 1",
+            "content": "Content for lesson 1",
+            "duration": 17,
+            "order": 1
+        },
+        {
+            "lessonId": "L002",
+            "courseId": "C003",
+            "title": "Lesson 2",
+            "content": "Content for lesson 2",
+            "duration": 21,
+            "order": 2
+        },
+        {
+            "lessonId": "L003",
+            "courseId": "C004",
+            "title": "Lesson 3",
+            "content": "Content for lesson 3",
+            "duration": 19,
+            "order": 3
+        },
+        {
+            "lessonId": "L004",
+            "courseId": "C005",
+            "title": "Lesson 4",
+            "content": "Content for lesson 4",
+            "duration": 20,
+            "order": 4
+        },
+        {
+            "lessonId": "L005",
+            "courseId": "C006",
+            "title": "Lesson 5",
+            "content": "Content for lesson 5",
+            "duration": 22,
+            "order": 5
+        },
+        {
+            "lessonId": "L006",
+            "courseId": "C007",
+            "title": "Lesson 6",
+            "content": "Content for lesson 6",
+            "duration": 12,
+            "order": 6
+        },
+        {
+            "lessonId": "L007",
+            "courseId": "C008",
+            "title": "Lesson 7",
+            "content": "Content for lesson 7",
+            "duration": 18,
+            "order": 7
+        },
+        {
+            "lessonId": "L008",
+            "courseId": "C001",
+            "title": "Lesson 8",
+            "content": "Content for lesson 8",
+            "duration": 22,
+            "order": 8
+        },
+        {
+            "lessonId": "L009",
+            "courseId": "C002",
+            "title": "Lesson 9",
+            "content": "Content for lesson 9",
+            "duration": 24,
+            "order": 9
+        },
+        {
+            "lessonId": "L010",
+            "courseId": "C003",
+            "title": "Lesson 10",
+            "content": "Content for lesson 10",
+            "duration": 18,
+            "order": 10
+        },
+        {
+            "lessonId": "L011",
+            "courseId": "C004",
+            "title": "Lesson 11",
+            "content": "Content for lesson 11",
+            "duration": 11,
+            "order": 11
+        },
+        {
+            "lessonId": "L012",
+            "courseId": "C005",
+            "title": "Lesson 12",
+            "content": "Content for lesson 12",
+            "duration": 19,
+            "order": 12
+        },
+        {
+            "lessonId": "L013",
+            "courseId": "C006",
+            "title": "Lesson 13",
+            "content": "Content for lesson 13",
+            "duration": 15,
+            "order": 13
+        },
+        {
+            "lessonId": "L014",
+            "courseId": "C007",
+            "title": "Lesson 14",
+            "content": "Content for lesson 14",
+            "duration": 16,
+            "order": 14
+        },
+        {
+            "lessonId": "L015",
+            "courseId": "C008",
+            "title": "Lesson 15",
+            "content": "Content for lesson 15",
+            "duration": 14,
+            "order": 15
+        },
+        {
+            "lessonId": "L016",
+            "courseId": "C001",
+            "title": "Lesson 16",
+            "content": "Content for lesson 16",
+            "duration": 17,
+            "order": 16
+        },
+        {
+            "lessonId": "L017",
+            "courseId": "C002",
+            "title": "Lesson 17",
+            "content": "Content for lesson 17",
+            "duration": 17,
+            "order": 17
+        },
+        {
+            "lessonId": "L018",
+            "courseId": "C003",
+            "title": "Lesson 18",
+            "content": "Content for lesson 18",
+            "duration": 11,
+            "order": 18
+        },
+        {
+            "lessonId": "L019",
+            "courseId": "C004",
+            "title": "Lesson 19",
+            "content": "Content for lesson 19",
+            "duration": 23,
+            "order": 19
+        },
+        {
+            "lessonId": "L020",
+            "courseId": "C005",
+            "title": "Lesson 20",
+            "content": "Content for lesson 20",
+            "duration": 15,
+            "order": 20
+        },
+        {
+            "lessonId": "L021",
+            "courseId": "C006",
+            "title": "Lesson 21",
+            "content": "Content for lesson 21",
+            "duration": 16,
+            "order": 21
+        },
+        {
+            "lessonId": "L022",
+            "courseId": "C007",
+            "title": "Lesson 22",
+            "content": "Content for lesson 22",
+            "duration": 14,
+            "order": 22
+        },
+        {
+            "lessonId": "L023",
+            "courseId": "C008",
+            "title": "Lesson 23",
+            "content": "Content for lesson 23",
+            "duration": 18,
+            "order": 23
+        },
+        {
+            "lessonId": "L024",
+            "courseId": "C001",
+            "title": "Lesson 24",
+            "content": "Content for lesson 24",
+            "duration": 14,
+            "order": 24
+        },
+        {
+            "lessonId": "L025",
+            "courseId": "C002",
+            "title": "Lesson 25",
+            "content": "Content for lesson 25",
+            "duration": 10,
+            "order": 25
+        }
+    ],
+    "assignments": [
+        {
+            "assignmentId": "A001",
+            "courseId": "C002",
+            "title": "Assignment 1",
+            "description": "Assignment 1 description",
+            "dueDate": "2025-06-12T10:16:39.959192"
+        },
+        {
+            "assignmentId": "A002",
+            "courseId": "C003",
+            "title": "Assignment 2",
+            "description": "Assignment 2 description",
+            "dueDate": "2025-06-13T10:16:39.959204"
+        },
+        {
+            "assignmentId": "A003",
+            "courseId": "C004",
+            "title": "Assignment 3",
+            "description": "Assignment 3 description",
+            "dueDate": "2025-06-14T10:16:39.959208"
+        },
+        {
+            "assignmentId": "A004",
+            "courseId": "C005",
+            "title": "Assignment 4",
+            "description": "Assignment 4 description",
+            "dueDate": "2025-06-15T10:16:39.959211"
+        },
+        {
+            "assignmentId": "A005",
+            "courseId": "C006",
+            "title": "Assignment 5",
+            "description": "Assignment 5 description",
+            "dueDate": "2025-06-16T10:16:39.959215"
+        },
+        {
+            "assignmentId": "A006",
+            "courseId": "C007",
+            "title": "Assignment 6",
+            "description": "Assignment 6 description",
+            "dueDate": "2025-06-17T10:16:39.959219"
+        },
+        {
+            "assignmentId": "A007",
+            "courseId": "C008",
+            "title": "Assignment 7",
+            "description": "Assignment 7 description",
+            "dueDate": "2025-06-18T10:16:39.959222"
+        },
+        {
+            "assignmentId": "A008",
+            "courseId": "C001",
+            "title": "Assignment 8",
+            "description": "Assignment 8 description",
+            "dueDate": "2025-06-19T10:16:39.959227"
+        },
+        {
+            "assignmentId": "A009",
+            "courseId": "C002",
+            "title": "Assignment 9",
+            "description": "Assignment 9 description",
+            "dueDate": "2025-06-20T10:16:39.959232"
+        },
+        {
+            "assignmentId": "A010",
+            "courseId": "C003",
+            "title": "Assignment 10",
+            "description": "Assignment 10 description",
+            "dueDate": "2025-06-21T10:16:39.959236"
+        }
+    ],
+    "submissions": [
+        {
+            "submissionId": "S001",
+            "assignmentId": "A002",
+            "studentId": "U002",
+            "submissionDate": "2025-06-11T10:16:39.959334",
+            "grade": 83,
+            "feedback": "Feedback for submission 1"
+        },
+        {
+            "submissionId": "S002",
+            "assignmentId": "A003",
+            "studentId": "U003",
+            "submissionDate": "2025-06-11T10:16:39.959340",
+            "grade": 98,
+            "feedback": "Feedback for submission 2"
+        },
+        {
+            "submissionId": "S003",
+            "assignmentId": "A004",
+            "studentId": "U004",
+            "submissionDate": "2025-06-11T10:16:39.959344",
+            "grade": 51,
+            "feedback": "Feedback for submission 3"
+        },
+        {
+            "submissionId": "S004",
+            "assignmentId": "A005",
+            "studentId": "U005",
+            "submissionDate": "2025-06-11T10:16:39.959348",
+            "grade": 93,
+            "feedback": "Feedback for submission 4"
+        },
+        {
+            "submissionId": "S005",
+            "assignmentId": "A006",
+            "studentId": "U006",
+            "submissionDate": "2025-06-11T10:16:39.959352",
+            "grade": 69,
+            "feedback": "Feedback for submission 5"
+        },
+        {
+            "submissionId": "S006",
+            "assignmentId": "A007",
+            "studentId": "U007",
+            "submissionDate": "2025-06-11T10:16:39.959356",
+            "grade": 83,
+            "feedback": "Feedback for submission 6"
+        },
+        {
+            "submissionId": "S007",
+            "assignmentId": "A008",
+            "studentId": "U008",
+            "submissionDate": "2025-06-11T10:16:39.959359",
+            "grade": 68,
+            "feedback": "Feedback for submission 7"
+        },
+        {
+            "submissionId": "S008",
+            "assignmentId": "A009",
+            "studentId": "U009",
+            "submissionDate": "2025-06-11T10:16:39.959364",
+            "grade": 72,
+            "feedback": "Feedback for submission 8"
+        },
+        {
+            "submissionId": "S009",
+            "assignmentId": "A010",
+            "studentId": "U010",
+            "submissionDate": "2025-06-11T10:16:39.959368",
+            "grade": 60,
+            "feedback": "Feedback for submission 9"
+        },
+        {
+            "submissionId": "S010",
+            "assignmentId": "A001",
+            "studentId": "U011",
+            "submissionDate": "2025-06-11T10:16:39.959372",
+            "grade": 77,
+            "feedback": "Feedback for submission 10"
+        },
+        {
+            "submissionId": "S011",
+            "assignmentId": "A002",
+            "studentId": "U012",
+            "submissionDate": "2025-06-11T10:16:39.959376",
+            "grade": 52,
+            "feedback": "Feedback for submission 11"
+        },
+        {
+            "submissionId": "S012",
+            "assignmentId": "A003",
+            "studentId": "U013",
+            "submissionDate": "2025-06-11T10:16:39.959380",
+            "grade": 56,
+            "feedback": "Feedback for submission 12"
+        }
+    ]
+}
