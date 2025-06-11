@@ -6,8 +6,6 @@ import datetime
 # Load environment variables
 load_dotenv()
 uri = os.getenv("MONGODB_URI")
-
-# Connect to MongoDB
 client = MongoClient(uri)
 db = client["eduhub_db"]
 
